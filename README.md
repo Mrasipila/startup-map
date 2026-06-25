@@ -1,5 +1,8 @@
 # Startup Semantic Map — precomputed embeddings version
 
+link to the visualisation : 
+https://startup-map-vmuhauwnmxsw5nf2bz785k.streamlit.app/
+
 ## Files
 
 - `startups_2026_embedded.csv` — generated output file. Commit this file with the app.
