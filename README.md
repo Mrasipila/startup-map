@@ -1,7 +1,5 @@
 # Startup Semantic Map — precomputed embeddings version
 
-This version avoids loading `sentence-transformers` inside the Streamlit app.
-
 ## Files
 
 - `startups_2026_embedded.csv` — generated output file. Commit this file with the app.
